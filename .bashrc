@@ -1,3 +1,7 @@
+# Bash
+alias reload="source ~/.bashrc"
+alias ll="ls -al"
+
 # Git
 function prune {
   git fetch --prune
