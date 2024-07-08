@@ -1,0 +1,3 @@
+[alias]
+	lg = log --graph --abbrev-commit --decorate --date=format:'%Y-%m-%d %H:%M:%S' --format=format:'%C(blue)%h%Creset ~ %C(green)%ad%Creset %C(magenta)%ar%Creset%C(yellow)%d%Creset %s - %C(blue)%an%Creset'
+	lga = lg --all
