@@ -1,0 +1,12 @@
+set nocompatible
+set nu
+set ic
+set hlsearch
+set incsearch
+set laststatus=2
+set showmode
+set showcmd
+syntax on
+set history=1000
+set number
+set relativenumber
