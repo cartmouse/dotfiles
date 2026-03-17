@@ -17,6 +17,8 @@ function main() {
   prune
 }
 
+alias gfom="git fetch origin main:main"
+
 # Make
 alias m="make"
 alias mr="make run"
